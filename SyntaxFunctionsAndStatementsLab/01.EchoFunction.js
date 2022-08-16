@@ -4,5 +4,3 @@ function Echo(myStr){
     console.log(myStr)
 }
 
-
-Echo('Hello, JavaScript!')
